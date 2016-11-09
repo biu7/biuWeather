@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewBehavior">
+        <attr name="city_startSize" format="dimension"/>
+        <attr name="city_finalSize" format="dimension"/>
+        <attr name="temp_startSize" format="dimension"/>
+        <attr name="temp_finalSize" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="CurveView">
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+
+
+
+</resources>
